@@ -1,1 +1,2 @@
-hello version=1
+config: 
+ info: hello version=1
